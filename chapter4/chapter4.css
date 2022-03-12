@@ -1,0 +1,25 @@
+* {
+   margin: 0;
+   padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  height: 50px;
+  background-color: red;
+}
+
+.header-top{
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
+
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+}
+]
